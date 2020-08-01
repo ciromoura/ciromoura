@@ -1,4 +1,4 @@
-### Hi there 👋
+### Roi 👋
 
 <!--
 **ciromoura/ciromoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Blog Badge](https://img.shields.io/badge/blog-ciromoura.com.br-black)](https://ciromoura.com.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ciromoura)](https://twitter.com/ciromorua)
