@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Blog Badge](https://img.shields.io/badge/blog-ciromoura.com.br-black)](https://ciromoura.com.br)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ciromoura)](https://twitter.com/ciromorua)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ciromoura)](https://twitter.com/ciromoura)
