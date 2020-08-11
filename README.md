@@ -1,9 +1,11 @@
-### Oi! 👋
+### Olá! 👋
+
+👨‍🏫 - Sou professor no IFPE; <br/>
+📚 - Áreas de interesse: Banco de Dados, Mineração de Dados, Geoinformática, Processamento de Imagens, Desenvolvimento Web e Informática na educação;<br/>
+💻 - Aprendendo mais sobre programação web e mobile.
 
 <!--
 **ciromoura/ciromoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-[![Blog Badge](https://img.shields.io/badge/blog-ciromoura.com.br-black)](https://ciromoura.com.br)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-gray?style=flat-square)](http://lattes.cnpq.br/6573088805666433)
+[![WordPress Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=https://ciromoura.com.br/)](https://ciromoura.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ciromoura)](https://twitter.com/ciromoura)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cirodgm/)](https://www.linkedin.com/in/cirodgm/)
