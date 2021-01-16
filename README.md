@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-👨‍🏫 - Sou professor no IFPE; <br/>
+👨‍🏫 - Sou professor no IFRN; <br/>
 📚 - Áreas de interesse: Banco de Dados, Mineração de Dados, Geoinformática, Processamento de Imagens, Desenvolvimento Web e Informática na educação;<br/>
 💻 - Aprendendo mais sobre programação web e mobile.
 
