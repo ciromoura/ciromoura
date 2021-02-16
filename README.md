@@ -21,3 +21,4 @@
 [![WordPress Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=https://ciromoura.com.br/)](https://ciromoura.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ciromoura)](https://twitter.com/ciromoura)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cirodgm/)](https://www.linkedin.com/in/cirodgm/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://instagram.com/ciromoura)](https://instagram.com/ciromoura)
