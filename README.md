@@ -2,7 +2,7 @@
 
 👨‍🏫 - Sou professor no IFRN; <br/>
 📚 - Áreas de interesse: Banco de Dados, Mineração de Dados, Geoinformática, Processamento de Imagens, Desenvolvimento Web e Informática na educação;<br/>
-💻 - Aprendendo mais sobre programação web e mobile.
+💻 - Aprendendo mais sobre programação.
 
 <!--
 **ciromoura/ciromoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
